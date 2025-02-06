@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Silky Test</string>
+    <string name="facebook_app_id">488969463987408</string>
+    <string name="fb_login_protocol_scheme">fb488969463987408</string>
+    <string name="facebook_client_token">f23d2e7ee27d3545f56600001a6e09dd</string>
+</resources>
