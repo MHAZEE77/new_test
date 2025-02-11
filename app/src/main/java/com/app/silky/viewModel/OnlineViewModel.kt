@@ -27,8 +27,6 @@ import javax.inject.Inject
         }
     }
 
-
-
     private fun handleResponse(response: Response<List<Users>>): DataHandler<List<Users>> {
         if (response.isSuccessful) {
             response.body()?.let { it ->
